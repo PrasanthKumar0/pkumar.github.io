@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Prasanth Kumar
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description:  I'm an enthusiastic and motivated individual who has recently entered the world of DevOps. I'm passionate about merging the realms of development and operations to enhance software development and deployment processes. With a fresh perspective and a strong problem-solving mindset, I'm eager to collaborate with cross-functional teams to optimize software delivery pipelines and boost system reliability.
 
 
 #
@@ -16,12 +16,12 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email: prasanthkumarakkili@gmail.com
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github: Prasanthkumar0
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
